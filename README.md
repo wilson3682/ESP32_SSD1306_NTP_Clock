@@ -12,4 +12,4 @@ https://www.youtube.com/watch?v=ziGNXf2LGeI&t=0s
 
 ## Schematics:
 
-[Alt text](https://github.com/wilson3682/ESP32_SSD1306_NTP_Clock/blob/main/ESP32_SSD1306_NTP_Clock.png)
+![Alt text](https://github.com/wilson3682/ESP32_SSD1306_NTP_Clock/blob/main/ESP32_SSD1306_NTP_Clock.png)
