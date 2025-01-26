@@ -9,4 +9,8 @@ https://www.youtube.com/watch?v=sQO2-um2m5w
 https://github.com/zissis-pap/ESP32-NTP-Client-SSD1306/tree/master
 
 https://www.youtube.com/watch?v=ziGNXf2LGeI&t=0s
+
+## Schematics:
+
+https://github.com/wilson3682/ESP32_SSD1306_NTP_Clock/blob/main/ESP32%20SSD1306%20NTP%20Clock.png
    
